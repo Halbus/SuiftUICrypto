@@ -19,6 +19,7 @@
 		CB3E0A2B27C65C9100D1DD24 /* CoinRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB3E0A2A27C65C9100D1DD24 /* CoinRowView.swift */; };
 		CB3E0A2D27C65CEF00D1DD24 /* PreviewProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB3E0A2C27C65CEE00D1DD24 /* PreviewProvider.swift */; };
 		CB3E0A2F27C6649200D1DD24 /* Double.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB3E0A2E27C6649200D1DD24 /* Double.swift */; };
+		CB3E0A3127C6753700D1DD24 /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB3E0A3027C6753700D1DD24 /* HomeViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		CB3E0A2A27C65C9100D1DD24 /* CoinRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinRowView.swift; sourceTree = "<group>"; };
 		CB3E0A2C27C65CEE00D1DD24 /* PreviewProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = PreviewProvider.swift; path = "Preview Assets.xcassets/PreviewProvider.swift"; sourceTree = "<group>"; };
 		CB3E0A2E27C6649200D1DD24 /* Double.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Double.swift; sourceTree = "<group>"; };
+		CB3E0A3027C6753700D1DD24 /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,6 +138,7 @@
 		CB3DF34527C5726E00F5F2E4 /* ViewModels */ = {
 			isa = PBXGroup;
 			children = (
+				CB3E0A3027C6753700D1DD24 /* HomeViewModel.swift */,
 			);
 			path = ViewModels;
 			sourceTree = "<group>";
@@ -236,6 +239,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CB3E0A2B27C65C9100D1DD24 /* CoinRowView.swift in Sources */,
+				CB3E0A3127C6753700D1DD24 /* HomeViewModel.swift in Sources */,
 				CB3DF34B27C592D200F5F2E4 /* CircleButtonView.swift in Sources */,
 				CB3DF34D27C5A13C00F5F2E4 /* CircleButtonAnimationView.swift in Sources */,
 				CB3DF34027C571CC00F5F2E4 /* ColorExamples.swift in Sources */,
