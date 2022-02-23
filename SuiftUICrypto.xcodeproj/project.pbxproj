@@ -29,7 +29,7 @@
 		CB3DF34627C5728400F5F2E4 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		CB3DF34A27C592D200F5F2E4 /* CircleButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleButtonView.swift; sourceTree = "<group>"; };
 		CB3DF34C27C5A13C00F5F2E4 /* CircleButtonAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleButtonAnimationView.swift; sourceTree = "<group>"; };
-		CB3DF34E27C5B59200F5F2E4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		CB3E0A2627C5B96400D1DD24 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +69,7 @@
 				CB3DF33C27C56FD900F5F2E4 /* Extensions */,
 				CB3DF33427C56C7C00F5F2E4 /* Preview Content */,
 				CB3DF34127C571E200F5F2E4 /* ExamplesFromSwiftUIThinking */,
+				CB3E0A2627C5B96400D1DD24 /* README.md */,
 			);
 			path = SuiftUICrypto;
 			sourceTree = "<group>";
@@ -119,7 +120,6 @@
 			isa = PBXGroup;
 			children = (
 				CB3DF34627C5728400F5F2E4 /* HomeView.swift */,
-				CB3DF34E27C5B59200F5F2E4 /* README.md */,
 			);
 			path = View;
 			sourceTree = "<group>";
